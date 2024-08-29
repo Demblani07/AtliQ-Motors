@@ -52,8 +52,8 @@ To view and interact with this Power BI report, you will need:
 ### Contact
 For any questions or feedback, feel free to reach out:
 
-- Email: Pradeepdemblani78@gmail.com
-- LinkedIn: [Click here](www.linkedin.com/in/pradeepdemblani)
+- Email:    [Click here](Pradeepdemblani78@gmail.com)
+- LinkedIn: [Click here](https://www.linkedin.com/in/pradeepdemblani)
 
 ### Acknowledgments
 - Special thanks to the AtliQ Motors team for their support and data provision.
