@@ -25,7 +25,7 @@ The project uses data from various sources, including:
 
 Data was cleaned and aggregated to ensure accurate analysis and visualization. This includes removing duplicates, handling missing values, and aggregating sales data by state and vehicle category.
 
-# Screenshots
+## Screenshots
 ![image](https://github.com/user-attachments/assets/00532d9e-5ed0-45cc-a3ca-c26107c3c7d7)
 
 ![image](https://github.com/user-attachments/assets/5573ef30-5320-4284-b2f9-00f72eec0961)
