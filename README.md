@@ -52,7 +52,7 @@ To view and interact with this Power BI report, you will need:
 ### Contact
 For any questions or feedback, feel free to reach out:
 
-- Email:    [Click here](Pradeepdemblani78@gmail.com)
+- Email: Pradeepdemblani78@gmail.com
 - LinkedIn: [Click here](https://www.linkedin.com/in/pradeepdemblani)
 
 ### Acknowledgments
