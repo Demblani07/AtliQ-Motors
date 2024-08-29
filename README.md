@@ -18,6 +18,7 @@ The project uses data from various sources, including:
 - **Sales Data**: Electric vehicle sales data across different states and time periods.
 - **Subsidy Information**: Data on government incentives and their impact on vehicle adoption.
 - **Market Projections**: Future sales projections and market trends for the EV sector.
+  
 ## Dataset Source
 [Click here](https://github.com/Demblani07/AtliQ-Motors/tree/4d9faa7add8811a2918a49c46ce3afb4b5a37191/Database)
 
@@ -30,7 +31,7 @@ Data was cleaned and aggregated to ensure accurate analysis and visualization. T
 
 ![image](https://github.com/user-attachments/assets/5573ef30-5320-4284-b2f9-00f72eec0961)
 
-### power bi file
+### Power BI File
 [Click here](https://github.com/Demblani07/AtliQ-Motors/tree/4d9faa7add8811a2918a49c46ce3afb4b5a37191/power%20bi%20project%20file)
 
 ### Live project
