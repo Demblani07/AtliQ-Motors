@@ -34,7 +34,7 @@ Data was cleaned and aggregated to ensure accurate analysis and visualization. T
 ### Power BI File
 [Click here](https://github.com/Demblani07/AtliQ-Motors/tree/4d9faa7add8811a2918a49c46ce3afb4b5a37191/power%20bi%20project%20file)
 
-### Live project
+###  Live Power BI Project Dashboard
 [Click here](https://app.powerbi.com/view?r=eyJrIjoiZjUzYjEzMGItOTVmNS00Y2JlLWFhNTQtMGE3ZDcyMDNiZWM4IiwidCI6ImU2MWFjZjI4LWNjMmItNDU1MS1iNWQ4LWU1MWQxYzM4NzA5YSJ9&pageName=c7e0c7643d71204126ee)
 
 ## Getting Started
